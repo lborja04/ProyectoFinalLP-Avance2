@@ -1,0 +1,50 @@
+.configuration {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 80vh;
+    width: 80vw;
+
+
+}
+
+.options {  
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+h4 {
+    font-weight: bold;
+    font-size: 34px;
+    color: #8c52ff;
+    margin-bottom: 40px;
+    padding: 4px;
+
+}
+.Graphic {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.total {
+    border: 2px solid  #3c1786;
+    border-radius: 5px;
+    width: 34vw;
+    background: #8c52ff;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    font-size: 50px;
+    color: white;
+}

@@ -1,0 +1,36 @@
+.catalogo-container {
+    width: 90vw;
+    margin-top: 80px;
+    display: flex;
+    align-items: start;
+    justify-content: space-around;
+    flex-direction: column;
+    padding: 10px;
+    padding-bottom: 0;
+    border-radius: 50px;
+    border: 10px;
+    border-color: #8c52ff;  
+}
+
+h4{
+    font-weight: bold;
+    font-size: 34px;
+    color: #3c1786;
+    margin-bottom: 40px;
+}
+
+.options-container{
+    display: flex;
+    align-items: start;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.option{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: #8c52ff;
+    margin: 0px 50px;
+}
